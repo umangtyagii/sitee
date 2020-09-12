@@ -1,0 +1,182 @@
+body{
+    background-color: #E4F9F5;
+    margin: 0px;
+    text-align: center;
+}
+.hop {
+    height: 100px;
+    width: 100%;
+    background-color: grey;
+    margin: 0px;
+    
+}
+.Top-container{
+    background-color: #E4F9F5;
+    margin: 0px;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+    background-color: honeydew;
+    margin-top: 100px;
+}
+.middle1{
+    width: 50%;
+    margin: 50px auto 10px auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.middle2{ 
+    width: 50%;
+    margin: 50px auto 100px auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+.middle3{ 
+    width: 50%;
+    margin: 150px auto 100px auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+.bottom-container{
+background-color: indigo;
+}
+.cloudbottom{
+        position: absolute;
+        top: 235px ;
+        left:240px
+}
+.cloudtop{
+    position: absolute;
+    right: 400px;
+    top: 75px;
+}
+p{
+    margin-bottom: 0;
+}
+.topp{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+    font-weight:normal;
+
+}
+h2{
+    color: #66BFBF;
+}
+.toph1{
+    font-family: 'Pacifico', cursive;
+    font-size: 3.5rem;
+    color: #66BFBF;
+}
+.umangpic{
+    
+    width: 45%;
+}
+.webpic{
+    width: 25%;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 25px;
+}
+.giphypic{
+    width: 35%;
+     float: right;
+    margin-right: 10px;
+    margin-bottom: 25px;
+
+}
+a{
+    color:#11999E ;
+}
+hr{
+    border-top-style: dotted;
+    border-left-style:none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-width: 8px;
+    border-color:grey;
+    width: 10%;
+    
+}
+.head2{
+    margin-top: 35px;
+}
+.mi1{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+.mi2{
+    width: 50%;
+    margin:  250px auto 100px auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+.mi3{
+    width: 50%;
+    margin: 250px auto 100px auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+.mi4{
+    width: 50%;
+    margin: 250px auto 100px auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+.mi5{
+    width: 50%;
+    margin: 250px auto 100px auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+.mi6{
+    width: 50%;
+    margin: 250px auto 100px auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+.mi7{
+    width: 50%;
+    margin: 250px auto 100px auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+.mi8{
+    width: 50%;
+    margin: 250px auto 100px auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+.im1{
+    float: left;
+    margin-right: 10px;
+}
+.im2{
+    float: right;
+    margin-right: 10px;
+}
+.im3{
+    float: left;
+    margin-right: 10px;
+}
+.im4{
+    float: right;
+    margin-right: 10px;
+}
+.im5{
+    float: left;
+    margin-right: 10px;
+}
+.im6{
+    float: right;
+    margin-right: 10px;
+}
+.im7{
+    float: left;
+    margin-right: 10px;
+}
+.im8{
+    float: right;
+    margin-right: 10px;
+}
